@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaHtml5, FaCss3Alt, FaJs, FaPhp, FaDatabase, FaReact, FaNodeJs, FaEnvelope, FaPhone, FaMapMarkerAlt, FaGithub, FaLinkedinIn } from 'react-icons/fa';
+import { FaHtml5, FaCss3Alt, FaJs, FaPhp, FaDatabase, FaReact, FaNodeJs, FaEnvelope, FaPhone, FaMapMarkerAlt, FaLinkedinIn, FaGithub } from 'react-icons/fa';
 import './App.css';
 
 function App() {
