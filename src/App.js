@@ -19,7 +19,7 @@ function App() {
       <section id="home" className="hero">
         <img src="/profile.jpg" alt="Hosni Mubarok" className="profile-photo" />
         <h1>Hosni Mubarok</h1>
-        <p>Saya adalah mahasiswa Teknik Informatika di Universitas Komputer Indonesia (UNIKOM) yang passionate dalam pengembangan web dan teknologi IoT.</p>
+        <p>Saya adalah lulusan mahasiswa Teknik Informatika di Universitas Komputer Indonesia (UNIKOM) yang passionate dalam pengembangan web dan teknologi IoT.</p>
         <p>Tujuan saya adalah terus berkembang menjadi developer yang inovatif, berkontribusi pada proyek-proyek teknologi yang bermanfaat bagi masyarakat, serta siap berkolaborasi dalam tim profesional. </p>
         <a href="#contact" className="cta-button">Hubungi Saya</a>
       </section>
